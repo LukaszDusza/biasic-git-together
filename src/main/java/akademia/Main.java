@@ -11,5 +11,13 @@ public class Main {
     String sc = scanner.nextLine();
     System.out.println("Cześć " + sc);
     System.out.println("koniec");
+
+      System.out.println("Dajże nazwisko, ziom.");
+      String input = scanner.next();
+      System.out.println("Bry, " + input);
+  }
+
+  public static void lol(){
+      System.out.println("xD");
   }
 }
